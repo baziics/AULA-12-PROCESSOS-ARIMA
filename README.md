@@ -1,1 +1,2 @@
-# AULA-12-PROCESSOS-ARIMA
+# 12-Processos-ARIMA
+Processos autorregressivos integrados de médias móveis
